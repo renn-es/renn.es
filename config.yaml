@@ -1,18 +1,15 @@
-baseURL: 'https://tarneo.fr/'
+baseURL: 'https://renn.es/'
 languageCode: 'en-us'
-title: "Tarneo's blog"
+title: "Renn.es"
 
 menu:
   main:
-    - name: "Home"
+    - name: "English"
       url: "/"
       weight: 1
-    - name: "Posts"
-      url: "/posts/"
+    - name: "Français"
+      url: "/fr/"
       weight: 2
-    - name: "About me"
-      url: "/whoami/"
-      weight: 3
 
 params:
-  favicon: "profile.png"
+  favicon: "penguin.png"
