@@ -13,3 +13,4 @@ menu:
 
 params:
   favicon: "penguin.png"
+  nav: false
