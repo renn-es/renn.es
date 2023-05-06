@@ -14,3 +14,4 @@ menu:
 params:
   favicon: "penguin.png"
   nav: false
+  description: "Renn.es is a non-profit and open shared computer system with a small user base running on Arch Linux."
