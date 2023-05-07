@@ -1,7 +1,5 @@
-+++
-title = "Renn.es"
-icon = "/favicon.webp"
-+++
+---
+---
 
 # Renn.es
 
