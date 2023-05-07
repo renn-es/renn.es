@@ -1,8 +1,5 @@
-+++
-title = "Renn.es"
-template = "section.html"
-icon = "/favicon.webp"
-+++
+---
+---
 
 # Renn.es
 
