@@ -3,6 +3,8 @@
 
 # Renn.es
 
+> "L'autonomie est la seule voie vers une véritable liberté."
+
 *Renn.es* est serveur partagé, ouvert et sans but lucratif avec une petite base d'utilisateurs. Il fonctionne sous Arch Linux et ses administrateurs se concentrent principalement sur la sécurité et la simplicité/le minimalisme. Il est géré par des passionnés de GNU/Linux, qui prônent la confidentialité et l'utilisent pour leurs tâches informatiques quotidiennes telles que la programmation, l'échange d'e-mails, l'hébergement de sites web, la synchronisation de fichiers, etc.
 Ce serveur est à Rennes.
 
