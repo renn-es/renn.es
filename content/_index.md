@@ -5,7 +5,7 @@
 
 > "Self-reliance is the only road to true freedom."
 
-*Renn.es* is a non-profit and open shared computer system with a small user base running on Arch Linux. Everything is set up focused on security and simplicity/minimalism. It is operated by privacy red-pilled GNU/Linux enthusiasts, who use it for their daily computing tasks like programming, writing mails, maintaining a website, syncing files, etc. This machine is hosted in Rennes (hence the name), in France (cocorico).
+*Renn.es* is a non-profit and open shared computer system with a small user base running on Fedora. Everything is set up focused on security and simplicity/minimalism. It is operated by privacy red-pilled GNU/Linux enthusiasts, who use it for their daily computing tasks like programming, writing mails, maintaining a website, syncing files, etc. This machine is hosted in Rennes (hence the name), in France (cocorico).
 
 We are not the only server like this, and a list of some is available [here](https://tildeverse.org/).
 
@@ -36,7 +36,7 @@ Non-exhaustive list of public services:
 
 ### Software
 
-- Arch Linux
+- Fedora 38
 - Docker
 - dockerized services:
     - reverse proxy: [Traefik](https://traefik.io/traefik/)
