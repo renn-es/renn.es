@@ -1,4 +1,4 @@
 deploy:
 	hugo
-	rsync -avx --delete public/ deploy:./www/renn.es/
+	rsync -avx --delete public/ cocinero:./renn.es/
 
