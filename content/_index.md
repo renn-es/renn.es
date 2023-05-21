@@ -3,18 +3,9 @@
 
 # Renn.es
 
-> "Self-reliance is the only road to true freedom."
+*Renn.es* is a non-profit [tilde community](https://tildeverse.org/) running on Fedora. Everything is set up focused on security and simplicity/minimalism. It is operated by privacy red-pilled GNU/Linux enthusiasts, who use it for their daily computing tasks like programming, writing mails, maintaining a website, syncing files, etc. Our server is hosted in Rennes, France.
 
-*Renn.es* is a non-profit and open shared computer system with a small user base running on Fedora. Everything is set up focused on security and simplicity/minimalism. It is operated by privacy red-pilled GNU/Linux enthusiasts, who use it for their daily computing tasks like programming, writing mails, maintaining a website, syncing files, etc. This machine is hosted in Rennes (hence the name), in France (cocorico).
-
-We are not the only server like this, and a list of some is available [here](https://tildeverse.org/).
-
-We've got some spare space on this machine that we'd be happy to provide to you. For this you can contact us:
-
-- email to: <tarneo@renn.es> or <spedotte@renn.es>.
-- matrix room: [#welcome:matrix.renn.es](https://matrix.to/#/#welcome:matrix.renn.es)
-
-If you pay for an additional domain name, we could set up a fully custom email address for you (\~ \$10-\$15 with a country TLD like .fr).
+If you want an account on this server, just send us an email at <admin@renn.es>.
 
 ## Public services
 
@@ -23,6 +14,7 @@ Non-exhaustive list of public services:
 - [renn.es](https://renn.es), this website.
 - [tarneo.fr](https://tarneo.fr), a personal blog.
 - [matrix.renn.es](https://matrix.to/#/#welcome:matrix.renn.es), our matrix server.
+- an email server, without webmail.
 
 
 ## Technical details
@@ -39,13 +31,12 @@ Non-exhaustive list of public services:
 - Fedora 38
 - Docker
 - dockerized services:
-    - reverse proxy: [Traefik](https://traefik.io/traefik/)
-    - website hosting: [Nginx](https://hub.docker.com/_/nginx)
+    - reverse proxy and website hosting: [Caddy](https://caddyserver.com/). It's very simple because it handles TLS certificates automatically (at least in theory).
     - email server: [Docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/latest/)
     - Matrix server: [Synapse](https://hub.docker.com/r/matrixdotorg/synapse)
 - file sync:
     - [Syncthing](https://syncthing.net/) on smartphones (unfortunately it's the only FOSS solution on Android for 2-way sync)
     - [Unison](https://github.com/bcpierce00/unison) with a [custom script](https://github.com/tarneaux/.f/blob/master/zsh/.config/scripts/unison-sync)
-- backup: [btrbk](https://github.com/digint/btrbk) with a cron job that runs every minute (yes that's overkill but it costs almost nothing)
+- backup: [btrbk](https://github.com/digint/btrbk) to another server located in Paris. We also do a full backup of the server semi-regularly on cold storage.
 
 [Cette page en français](/fr/)
