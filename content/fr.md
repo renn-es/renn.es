@@ -14,6 +14,7 @@ Liste non exhaustive des services disponibles sur Renn.es:
 - [renn.es](https://renn.es), ce site Web.
 - [tarneo.fr](https://tarneo.fr), un blog personnel.
 - [matrix.renn.es](https://matrix.to/#/#welcome:matrix.renn.es), notre serveur Matrix.
+- [git.renn.es](https://git.renn.es), notre serveur Git.
 - un serveur de mail sans webmail.
 
 ## Informations techniques
@@ -33,6 +34,7 @@ Liste non exhaustive des services disponibles sur Renn.es:
     - reverse proxy et hébergement de sites web: [Caddy](https://caddyserver.com/). Il gère aussi la génération automatique de certificats TLS avec un fichier de configuration admirablement simple.
     - serveur mail: [Docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/latest/)
     - serveur Matrix: [Synapse](https://hub.docker.com/r/matrixdotorg/synapse)
+    - serveur Git: [Legit](https://github.com/icyphox/legit)
 - synchronisation de fichiers:
     - [Syncthing](https://syncthing.net/) sur smartphone (malheureusement c'est la seule solution libre disponible sur Android pour une synchronisation symétrique)
     - [Unison](https://github.com/bcpierce00/unison) avec un [script](https://github.com/tarneaux/.f/blob/master/zsh/.config/scripts/unison-sync)

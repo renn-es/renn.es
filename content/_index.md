@@ -14,6 +14,7 @@ Non-exhaustive list of public services:
 - [renn.es](https://renn.es), this website.
 - [tarneo.fr](https://tarneo.fr), a personal blog.
 - [matrix.renn.es](https://matrix.to/#/#welcome:matrix.renn.es), our matrix server.
+- [git.renn.es](https://git.renn.es), our git server.
 - an email server, without webmail.
 
 
@@ -34,6 +35,7 @@ Non-exhaustive list of public services:
     - reverse proxy and website hosting: [Caddy](https://caddyserver.com/). It's very simple because it handles TLS certificates automatically (at least in theory).
     - email server: [Docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/latest/)
     - Matrix server: [Synapse](https://hub.docker.com/r/matrixdotorg/synapse)
+    - git server: [Legit](https://github.com/icyphox/legit)
 - file sync:
     - [Syncthing](https://syncthing.net/) on smartphones (unfortunately it's the only FOSS solution on Android for 2-way sync)
     - [Unison](https://github.com/bcpierce00/unison) with a [custom script](https://github.com/tarneaux/.f/blob/master/zsh/.config/scripts/unison-sync)
