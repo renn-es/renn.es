@@ -3,6 +3,8 @@
 
 # Renn.es
 
+![](/penguin_in_space.png)
+
 *Renn.es* is a non-profit [tilde community](https://tildeverse.org/) running on Gentoo Linux. Everything is set up focused on security and simplicity/minimalism. It is operated by privacy red-pilled GNU/Linux enthusiasts, who use it for their daily computing tasks like programming, writing mails, maintaining a website, syncing files, etc. Our server is hosted in Rennes, France.
 
 If you want an account on this server, just send us an email at <admin@renn.es>.
