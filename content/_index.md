@@ -3,7 +3,7 @@
 
 # Renn.es
 
-*Renn.es* is a non-profit [tilde community](https://tildeverse.org/) running on Fedora. Everything is set up focused on security and simplicity/minimalism. It is operated by privacy red-pilled GNU/Linux enthusiasts, who use it for their daily computing tasks like programming, writing mails, maintaining a website, syncing files, etc. Our server is hosted in Rennes, France.
+*Renn.es* is a non-profit [tilde community](https://tildeverse.org/) running on Gentoo Linux. Everything is set up focused on security and simplicity/minimalism. It is operated by privacy red-pilled GNU/Linux enthusiasts, who use it for their daily computing tasks like programming, writing mails, maintaining a website, syncing files, etc. Our server is hosted in Rennes, France.
 
 If you want an account on this server, just send us an email at <admin@renn.es>.
 
@@ -29,7 +29,7 @@ Non-exhaustive list of public services:
 
 ### Software
 
-- Fedora 38
+- Gentoo Linux
 - Docker
 - dockerized services:
     - reverse proxy and website hosting: [Caddy](https://caddyserver.com/). It's very simple because it handles TLS certificates automatically (at least in theory).

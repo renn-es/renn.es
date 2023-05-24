@@ -3,7 +3,7 @@
 
 # Renn.es
 
-*Renn.es* est un serveur partagé sans but lucratif dans le style des [communautés tilde](https://tildeverse.org) qui tourne sous Fedora. Ses administrateurs se concentrent principalement sur la sécurité et la simplicité/le minimalisme. Il est géré par des passionnés de GNU/Linux, qui prônent la confidentialité et l'utilisent pour leurs tâches informatiques quotidiennes telles que la programmation, l'échange d'e-mails, l'hébergement de sites web, la synchronisation de fichiers, etc. Ce serveur se trouve à Rennes.
+*Renn.es* est un serveur partagé sans but lucratif dans le style des [communautés tilde](https://tildeverse.org) qui tourne sous Gentoo Linux. Ses administrateurs se concentrent principalement sur la sécurité et la simplicité/le minimalisme. Il est géré par des passionnés de GNU/Linux, qui prônent la confidentialité et l'utilisent pour leurs tâches informatiques quotidiennes telles que la programmation, l'échange d'e-mails, l'hébergement de sites web, la synchronisation de fichiers, etc. Ce serveur se trouve à Rennes.
 
 Si vous voulez une petite place sur ce serveur, contactez-nous par e-mail à l'adresse <admin@renn.es>.
 
@@ -28,7 +28,7 @@ Liste non exhaustive des services disponibles sur Renn.es:
 
 ### Software
 
-- Fedora 38
+- Gentoo Linux
 - Docker
 - services docker:
     - reverse proxy et hébergement de sites web: [Caddy](https://caddyserver.com/). Il gère aussi la génération automatique de certificats TLS avec un fichier de configuration admirablement simple.
