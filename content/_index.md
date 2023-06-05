@@ -22,16 +22,14 @@ Non-exhaustive list of public services:
 - an email server, without webmail.
 
 
-## Technical details
-
-### Hardware
+## Hardware
 
 - Host: Fujitsu Primergy TX1330 M2 GS01
 - CPU: Intel Xeon E3-1270 v5 (8) @ 4GHz
 - RAM: 32GB DDR3
 - Hard drives: two 3TB HDDs in RAID 1
 
-### Software
+## Software
 
 - Gentoo Linux
 - Docker

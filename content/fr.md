@@ -21,16 +21,14 @@ Liste non exhaustive des services disponibles sur Renn.es:
 - [git.renn.es](https://git.renn.es), notre serveur Git.
 - un serveur de mail sans webmail.
 
-## Informations techniques
-
-### Matériel
+## Matériel
 
 - Machine: Fujitsu Primergy TX1330 M2 GS01
 - CPU: Intel Xeon E3-1270 v5 (8) @ 4GHz
 - RAM: 32GB DDR3
 - Disques durs: 2x 3TB en RAID 1
 
-### Software
+## Programmes
 
 - Gentoo Linux
 - Docker
