@@ -33,13 +33,15 @@ Liste non exhaustive des services disponibles sur Renn.es:
 - Gentoo Linux
 - Docker
 - services docker:
-    - reverse proxy et hébergement de sites web: [Caddy](https://caddyserver.com/). Il gère aussi la génération automatique de certificats TLS avec un fichier de configuration admirablement simple.
-    - serveur mail: [Docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/latest/)
+    - reverse proxy et hébergement de sites web: [Caddy](https://caddyserver.com/). Il gère aussi la génération de certificats TLS et son fichier de configuration est particulièrement simple.
+    - serveur mail: [Docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/latest/).
     - serveur Matrix: [Synapse](https://hub.docker.com/r/matrixdotorg/synapse)
-    - serveur Git: [Legit](https://github.com/icyphox/legit)
+    - serveur Git: [Legit](https://github.com/icyphox/legit) qui s'occupe aussi bien du site web et des `git clone`.
 - synchronisation de fichiers:
-    - [Syncthing](https://syncthing.net/) sur smartphone (malheureusement c'est la seule solution libre disponible sur Android pour une synchronisation symétrique)
     - [Unison](https://github.com/bcpierce00/unison) avec un [script](https://github.com/tarneaux/.f/blob/master/zsh/.config/scripts/unison-sync)
-- backups: [btrbk](https://github.com/digint/btrbk) vers un autre serveur à Paris. On fait aussi des backups sur des disques durs externes de temps en temps.
+    - [Syncthing](https://syncthing.net/) sur smartphone. On n'a pas besoin de peer-to-peer avec un serveur, mais c'est plutôt le fait que ça soit la seule solution libre pour une synchronisation bidirectionnelle sur Android qui nous pousse à l'utiliser.
+- backups:
+    - [btrbk](https://github.com/digint/btrbk) est très bien pour des snapshots *locales*. On a mis en place un cronjob pour qu'il tourne toutes les dix minutes. Il garde les snapshots longtemps, et au moment d'écrire cette page on en a plus de 2000.
+    - On fait aussi des sauvegardes régulières des données importantes vers des disques durs externes avec [rsync](https://rsync.samba.org/).
 
 [This page in english](/)
