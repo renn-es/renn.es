@@ -34,13 +34,15 @@ Non-exhaustive list of public services:
 - Gentoo Linux
 - Docker
 - dockerized services:
-    - reverse proxy and website hosting: [Caddy](https://caddyserver.com/). It's very simple because it handles TLS certificates automatically (at least in theory).
-    - email server: [Docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/latest/)
+    - reverse proxy and website hosting: [Caddy](https://caddyserver.com/). It handles both reverse proxying requests and issuing TLS certs. Its configuration file is very simple to work with.
+    - email server: [Docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/latest/). This does all we want it to do and much more.
     - Matrix server: [Synapse](https://hub.docker.com/r/matrixdotorg/synapse)
-    - git server: [Legit](https://github.com/icyphox/legit)
+    - git server: [Legit](https://github.com/icyphox/legit) can handle both web pages and https clones.
 - file sync:
-    - [Syncthing](https://syncthing.net/) on smartphones (unfortunately it's the only FOSS solution on Android for 2-way sync)
     - [Unison](https://github.com/bcpierce00/unison) with a [custom script](https://github.com/tarneaux/.f/blob/master/zsh/.config/scripts/unison-sync)
-- backup: [btrbk](https://github.com/digint/btrbk) to another server located in Paris. We also do a full backup of the server semi-regularly on cold storage.
+    - [Syncthing](https://syncthing.net/) on smartphones. Peer-to-peer is overkill for us, but it's the only libre software we know of for mirrored sync that also works on android.
+- backups:
+    - [btrbk](https://github.com/digint/btrbk) is great for maintaining *local* snapshots. We have set up a cron job for it to run every ten minutes and it keeps those snapshots for a long time, and as of writing this we have over 2000 stored.
+    - We also regularly backup directories we can't afford to lose onto cold storage with [rsync](https://rsync.samba.org/).
 
 [Cette page en français](/fr/)
