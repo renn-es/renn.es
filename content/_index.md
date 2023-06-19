@@ -3,7 +3,9 @@
 
 # Renn.es
 
-> "The tyrants are only great because we are on our knees." - Étienne de La Boétie
+> "The tyrants are only great because we are on our knees." 
+>
+> <cite>Étienne de La Boétie</cite>
 
 <!-- ![](/penguin_in_space.png) -->
 
