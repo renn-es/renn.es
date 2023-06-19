@@ -7,7 +7,9 @@
 
 <!-- ![](/penguin_in_space.png) -->
 
-*Renn.es* is a non-profit [tilde community](https://tildeverse.org/) running on Gentoo Linux. Everything is set up focused on security and simplicity/minimalism. It is operated by privacy red-pilled GNU/Linux enthusiasts, who use it for their daily computing tasks like programming, writing mails, maintaining a website, syncing files, etc. Our server is hosted in Rennes, France.
+*Renn.es* is a non-profit [tilde community](https://tildeverse.org/) running on Gentoo Linux. Everything is set up focused on security, simplicity and minimalism. We use it for our daily computing tasks like programming, writing mails, maintaining a website, syncing files, etc.
+
+We like doing things the "old school" way: here you won't see a Nextcloud instance or the like. We prefer writing plain text files and syncing them with tools that comply to the UNIX philosophy: do one thing and do it well.
 
 If you want an account on this server, just send us an email at <admin@renn.es>.
 
@@ -44,5 +46,10 @@ Non-exhaustive list of public services:
 - backups:
     - [btrbk](https://github.com/digint/btrbk) is great for maintaining *local* snapshots. We have set up a cron job for it to run every ten minutes and it keeps those snapshots for a long time, and as of writing this we have over 2000 stored.
     - We also regularly backup directories we can't afford to lose onto cold storage with [rsync](https://rsync.samba.org/).
+
+## Who are we?
+
+We are french, privacy red-pilled GNU/Linux enthusiasts. This server is maintained without any profit in mind and is therefore more of a money sink.
+
 
 [Cette page en français](/fr/)
