@@ -3,7 +3,9 @@
 
 # Renn.es
 
-> "Les tyrans ne sont grands que parce que nous sommes à genoux." - Étienne de La Boétie
+> "Les tyrans ne sont grands que parce que nous sommes à genoux."
+>
+> <cite>Étienne de La Boétie</cite>
 
 <!-- ![](/penguin_in_space.png) -->
 
