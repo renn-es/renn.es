@@ -54,7 +54,7 @@ Non-exhaustive list of public services:
 
 ## Who are we?
 
-We are french, privacy red-pilled GNU/Linux enthusiasts. This server is maintained without any profit in mind and is therefore more of a money sink.
+We are *~tarneo* and *~spedotte*, french, privacy red-pilled GNU/Linux enthusiasts. This server is maintained without any profit in mind and is therefore more of a money sink.
 
 
 [Cette page en français](/fr/)
