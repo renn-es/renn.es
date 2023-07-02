@@ -53,7 +53,7 @@ Liste non exhaustive des services disponibles sur Renn.es:
 
 ## Qui sommes-nous?
 
-Nous sommes *~tarneo* et *~spedotte*, des français passionnés de GNU/Linux et conscients des risques avec les GAFAM. Ce serveur est maintenu sans but lucratif et est plutôt un gouffre financier.
+Nous sommes *~tarneo* et *~spedotte*, des français passionnés de GNU/Linux et conscients de l'ampleur de la surveillance de masse opérée en partie par les GAFAM. Ce serveur est maintenu sans but lucratif et est plutôt un gouffre financier.
 
 [This page in english](/)
 
