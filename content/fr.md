@@ -24,6 +24,7 @@ Liste non exhaustive des services disponibles sur Renn.es:
 - [matrix.renn.es](https://matrix.to/#/#welcome:matrix.renn.es): notre serveur Matrix.
 - [git.renn.es](https://git.renn.es): notre serveur Git.
 - [mail.renn.es](https://mail.renn.es): notre serveur mail sans webmail.
+- [toot.renn.es](https://toot.renn.es): notre serveur mastodon.
 
 ## Matériel
 
