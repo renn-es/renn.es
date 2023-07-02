@@ -20,7 +20,7 @@ If you want an account on this server, just send us an email at <admin@renn.es>.
 Non-exhaustive list of public services:
 
 - [renn.es](https://renn.es): this website.
-- [tarneo.fr](https://tarneo.fr): a personal blog.
+- [tarneo.fr](https://tarneo.fr): *~tarneo*'s blog.
 - [matrix.renn.es](https://matrix.to/#/#welcome:matrix.renn.es): our matrix server.
 - [git.renn.es](https://git.renn.es): our git server.
 - [mail.renn.es](https://mail.renn.es): our email server, without webmail.
