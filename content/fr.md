@@ -23,7 +23,7 @@ Liste non exhaustive des services disponibles sur Renn.es:
 - [tarneo.fr](https://tarneo.fr): un blog personnel.
 - [matrix.renn.es](https://matrix.to/#/#welcome:matrix.renn.es): notre serveur Matrix.
 - [git.renn.es](https://git.renn.es): notre serveur Git.
-- [mail.renn.es](https://mail.renn.es): un serveur mail sans webmail.
+- [mail.renn.es](https://mail.renn.es): notre serveur mail sans webmail.
 
 ## Matériel
 
