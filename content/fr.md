@@ -26,6 +26,7 @@ Liste non exhaustive des services disponibles sur Renn.es:
 - [mail.renn.es](https://mail.renn.es): notre serveur mail sans webmail.
 - [toot.renn.es](https://toot.renn.es): notre serveur mastodon.
 - [searx.renn.es](https://searx.renn.es): notre instance SearXNG.
+- [iv.renn.es](https://iv.renn.es): notre instance Invidious.
 
 ## Matériel
 
