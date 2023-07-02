@@ -19,11 +19,11 @@ Si vous voulez une petite place sur ce serveur, écrivez-nous un mail à l'adres
 
 Liste non exhaustive des services disponibles sur Renn.es:
 
-- [renn.es](https://renn.es), ce site Web.
-- [tarneo.fr](https://tarneo.fr), un blog personnel.
-- [matrix.renn.es](https://matrix.to/#/#welcome:matrix.renn.es), notre serveur Matrix.
-- [git.renn.es](https://git.renn.es), notre serveur Git.
-- un serveur de mail sans webmail.
+- [renn.es](https://renn.es): ce site web.
+- [tarneo.fr](https://tarneo.fr): un blog personnel.
+- [matrix.renn.es](https://matrix.to/#/#welcome:matrix.renn.es): notre serveur Matrix.
+- [git.renn.es](https://git.renn.es): notre serveur Git.
+- [mail.renn.es](https://mail.renn.es): un serveur mail sans webmail.
 
 ## Matériel
 
