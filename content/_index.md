@@ -24,6 +24,7 @@ Non-exhaustive list of public services:
 - [matrix.renn.es](https://matrix.to/#/#welcome:matrix.renn.es): our matrix server.
 - [git.renn.es](https://git.renn.es): our git server.
 - [mail.renn.es](https://mail.renn.es): our email server, without webmail.
+- [toot.renn.es](https://toot.renn.es): our mastodon server.
 
 
 ## Hardware
