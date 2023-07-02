@@ -23,7 +23,7 @@ Non-exhaustive list of public services:
 - [tarneo.fr](https://tarneo.fr): a personal blog.
 - [matrix.renn.es](https://matrix.to/#/#welcome:matrix.renn.es): our matrix server.
 - [git.renn.es](https://git.renn.es): our git server.
-- [mail.renn.es](https://mail.renn.es): an email server, without webmail.
+- [mail.renn.es](https://mail.renn.es): our email server, without webmail.
 
 
 ## Hardware
