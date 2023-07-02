@@ -25,6 +25,7 @@ Non-exhaustive list of public services:
 - [git.renn.es](https://git.renn.es): our git server.
 - [mail.renn.es](https://mail.renn.es): our email server, without webmail.
 - [toot.renn.es](https://toot.renn.es): our mastodon server.
+- [searx.renn.es](https://searx.renn.es): our SearXNG instance.
 
 
 ## Hardware

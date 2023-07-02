@@ -25,6 +25,7 @@ Liste non exhaustive des services disponibles sur Renn.es:
 - [git.renn.es](https://git.renn.es): notre serveur Git.
 - [mail.renn.es](https://mail.renn.es): notre serveur mail sans webmail.
 - [toot.renn.es](https://toot.renn.es): notre serveur mastodon.
+- [searx.renn.es](https://searx.renn.es): notre instance SearXNG.
 
 ## Matériel
 
