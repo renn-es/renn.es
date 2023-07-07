@@ -44,7 +44,7 @@ Non-exhaustive list of public services:
     - reverse proxy and website hosting: [Caddy](https://caddyserver.com/). It handles both reverse proxying requests and issuing TLS certs. Its configuration file is very simple to work with.
     - email server: [Docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/latest/). This does all we want it to do and much more.
     - Matrix server: [Synapse](https://hub.docker.com/r/matrixdotorg/synapse)
-    - git server: [Legit](https://github.com/icyphox/legit) can handle both web pages and https clones.
+    - git server: [Gitea](https://about.gitea.com/)
 - file sync:
     - [Unison](https://github.com/bcpierce00/unison) with a [custom script](https://github.com/tarneaux/.f/blob/master/zsh/.config/scripts/unison-sync)
     - [Syncthing](https://syncthing.net/) on smartphones. Peer-to-peer is overkill for us, but it's the only libre software we know of for mirrored sync that also works on android.

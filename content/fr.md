@@ -43,7 +43,7 @@ Liste non exhaustive des services disponibles sur Renn.es:
     - reverse proxy et hébergement de sites web: [Caddy](https://caddyserver.com/). Il gère aussi la génération de certificats TLS et son fichier de configuration est particulièrement simple.
     - serveur mail: [Docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/latest/).
     - serveur Matrix: [Synapse](https://hub.docker.com/r/matrixdotorg/synapse)
-    - serveur Git: [Legit](https://github.com/icyphox/legit) qui s'occupe aussi bien du site web et des clonages.
+    - serveur Git: [Gitea](https://about.gitea.com/)
 - synchronisation de fichiers:
     - [Unison](https://github.com/bcpierce00/unison) avec un [script](https://github.com/tarneaux/.f/blob/master/zsh/.config/scripts/unison-sync)
     - [Syncthing](https://syncthing.net/) sur smartphone. On n'a pas besoin de peer-to-peer avec un serveur, mais c'est plutôt le fait que ça soit la seule solution libre pour une synchronisation bidirectionnelle sur Android qui nous pousse à l'utiliser.
