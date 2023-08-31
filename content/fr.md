@@ -51,6 +51,19 @@ Liste non exhaustive des services disponibles sur Renn.es:
     - [btrbk](https://github.com/digint/btrbk) est très bien pour des snapshots *locales*. On a mis en place un cronjob pour qu'il tourne toutes les dix minutes. Il garde les snapshots longtemps, et au moment d'écrire cette page on en a plus de 2000.
     - On fait aussi des sauvegardes régulières des données importantes vers des disques durs externes avec [rsync](https://rsync.samba.org/).
 
+## Statistiques
+
+Quelques-uns des sites web que nous hébergeons enregistrent des statistiques, avec comme unique but de savoir combien de personnes accèdent à ces sites web.
+Pour cela, nous utilisons l'option très basique `log` de Caddy, qui enregistre un journal de requêtes HTTP dans un fichier. Chaque entrée de ce journal contient les informations suivantes (sont omises la plupart des informations sans caractère personnel):
+- moment de la requête
+- adresse IP du client (unique, par exemple, à votre box internet)
+- site web (par exemple `tarneo.fr`) + la page que vous visitez
+- agent utilisateur (le navigateur web que vous utilisez)
+
+Ces données sont gardées sur notre serveur et n'en sortent pas.
+
+**Nous n'utilisons aucun service d'une tierce partie sur nos sites.**
+
 ## Qui sommes-nous?
 
 Nous sommes *~tarneo* et *~spedotte*, des français passionnés de GNU/Linux et conscients de l'ampleur de la surveillance de masse opérée en partie par les GAFAM. Ce serveur est maintenu sans but lucratif et est plutôt un gouffre financier.

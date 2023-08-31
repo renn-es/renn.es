@@ -52,6 +52,19 @@ Non-exhaustive list of public services:
     - [btrbk](https://github.com/digint/btrbk) is great for maintaining *local* snapshots. We have set up a cron job for it to run every ten minutes and it keeps those snapshots for a long time, and as of writing this we have over 2000 stored.
     - We also regularly backup directories we can't afford to lose onto cold storage with [rsync](https://rsync.samba.org/).
 
+## Analytics
+
+Some of the websites we host use very minimal analytics, with the only goal of knowing how many people access said websites.
+For this, we use the very basic Caddy `log` option, which logs each HTTP request to a file. Each log entry contains the following personnaly identifiable information:
+- timestamp (the date & time of the request)
+- client IP address (unique, for example, to your home network)
+- host (e.g. `tarneo.fr`) and page
+- user agent (which web browser you are using)
+
+This data isn't shared with third parties.
+
+**We do not use any kind of third-party service on our websites.**
+
 ## Who are we?
 
 We are *~tarneo* and *~spedotte*, french, privacy red-pilled GNU/Linux enthusiasts. This server is maintained without any profit in mind and is therefore more of a money sink.
