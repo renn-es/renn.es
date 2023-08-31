@@ -9,7 +9,7 @@
 
 <!-- ![](/penguin_in_space.png) -->
 
-*Renn.es* is a non-profit [tilde community](https://tildeverse.org/) running on Gentoo Linux. Everything is set up focused on security, simplicity and minimalism. We use it for our daily computing tasks like programming, writing mails, maintaining a website, syncing files, etc.
+*Renn.es* is a non-profit [tilde community](https://tildeverse.org/) running on Debian Linux. Everything is set up focused on security, simplicity and minimalism. We use it for our daily computing tasks like programming, writing mails, maintaining a website, syncing files, etc.
 
 We like doing things the "old school" way: here you won't see a Nextcloud instance or the like. We prefer writing plain text files and syncing them with tools that comply to the UNIX philosophy: do one thing and do it well.
 
@@ -38,7 +38,7 @@ Non-exhaustive list of public services:
 
 ## Software
 
-- Gentoo Linux
+- Debian Linux
 - Docker
 - dockerized services:
     - reverse proxy and website hosting: [Caddy](https://caddyserver.com/). It handles both reverse proxying requests and issuing TLS certs. Its configuration file is very simple to work with.
