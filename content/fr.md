@@ -9,7 +9,7 @@
 
 <!-- ![](/penguin_in_space.png) -->
 
-*Renn.es* est une [communauté tilde](https://tildeverse.org) qui tourne sous Gentoo Linux. Tout est mis en place en se concentrant sur la sécurité, la simplicité et le minimalisme. Nous l'utilisons pour nos tâches informatiques quotidiennes comme la programmation, l'écriture de mails, la maintenance d'un site web, la synchronisation de fichiers, etc.
+*Renn.es* est une [communauté tilde](https://tildeverse.org) qui tourne sous Debian Linux. Tout est mis en place en se concentrant sur la sécurité, la simplicité et le minimalisme. Nous l'utilisons pour nos tâches informatiques quotidiennes comme la programmation, l'écriture de mails, la maintenance d'un site web, la synchronisation de fichiers, etc.
 
 Ici, on aime faire les choses à l'ancienne: pas d'instance de services comme Nextcloud, on préfère écrire des fichiers texte et les synchroniser avec des outils UNIX.
 
@@ -37,7 +37,7 @@ Liste non exhaustive des services disponibles sur Renn.es:
 
 ## Programmes
 
-- Gentoo Linux
+- Debian Linux
 - Docker
 - services docker:
     - reverse proxy et hébergement de sites web: [Caddy](https://caddyserver.com/). Il gère aussi la génération de certificats TLS et son fichier de configuration est particulièrement simple.
