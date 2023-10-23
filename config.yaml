@@ -9,15 +9,7 @@ markup:
     renderer:
       unsafe: true
 
-menu:
-  main:
-    - name: "English"
-      url: "/"
-      weight: 1
-    - name: "Français"
-      url: "/fr/"
-      weight: 2
-
 params:
   favicon: "penguin.png"
   description: "Renn.es is a tilde community running on Debian Linux."
+  navbar: false
