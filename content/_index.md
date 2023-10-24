@@ -9,9 +9,16 @@
 
 <!-- ![](/penguin_in_space.png) -->
 
-*Renn.es* is a non-profit [tilde community](https://tildeverse.org/) running on Debian Linux. Everything is set up focused on security, simplicity and minimalism. We use it for our daily computing tasks like programming, writing mails, maintaining a website, syncing files, etc.
+*Renn.es* is a non-profit stared GNU/Linux system.
 
-We like doing things the "old school" way: here you won't see a Nextcloud instance or the like. We prefer writing plain text files and syncing them with tools that comply to the UNIX philosophy: do one thing and do it well.
+Everything is set up focused on security, simplicity and minimalism.
+
+We provide both services which can be accessed from a web browser, and Linux shell accounts which you can SSH into.
+
+Here are some use cases for a shell account:
+- messing around and learning about Linux
+- hosting a website, by `rsync`ing static, probably automatically generated content from your computer
+- storing (a reasonable amount of) files
 
 If you want an account on this server, just send us an email at <admin@renn.es>.
 
