@@ -74,5 +74,3 @@ We do not share your data with any third parties or use third-party services on 
 We are *~tarneo* and *~spedotte*, french, privacy red-pilled GNU/Linux enthusiasts. This server is maintained without any profit in mind and is therefore more of a money sink.
 
 [The FBI has not been here.](https://en.wikipedia.org/wiki/Warrant_canary)
-
-[Cette page en français](/fr/)
