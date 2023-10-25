@@ -40,7 +40,7 @@ You are free to use these services as you want. You should be able to create acc
 - Host: Fujitsu Primergy TX1330 M2 GS01
 - CPU: Intel Xeon E3-1270 v5 (8) @ 4GHz
 - RAM: 32GB DDR3
-- Hard drives: two 3TB HDDs in RAID 1
+- Hard drives: a pair of 3TB HDDs in RAID 1
 
 ## Software
 
