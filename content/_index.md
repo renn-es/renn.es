@@ -61,15 +61,13 @@ You are free to use these services as you want. You should be able to create acc
 ## Analytics
 
 Some of the websites we host use very minimal analytics, with the only goal of knowing how many people access said websites.
-For this, we use the very basic Caddy `log` option, which logs each HTTP request to a file. Each log entry contains the following personnaly identifiable information:
+For this, we use the Caddy `log` option, which logs each HTTP request to a file. Each log entry contains the following personnaly identifiable information:
 - timestamp (the date & time of the request)
 - client IP address (unique, for example, to your home network)
 - host (e.g. `tarneo.fr`) and page
 - user agent (which web browser you are using)
 
-This data isn't shared with third parties.
-
-**We do not use any kind of third-party service on our websites.**
+We do not share your data with any third parties or use third-party services on our websites.
 
 ## Who are we?
 
