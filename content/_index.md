@@ -53,7 +53,7 @@ You are free to use these services as you want. You should be able to create acc
     - git server: [Gitea](https://about.gitea.com/)
 - file sync:
     - [Unison](https://github.com/bcpierce00/unison) with a [custom script](https://github.com/tarneaux/.f/blob/master/zsh/.config/scripts/unison-sync)
-    - [Syncthing](https://syncthing.net/) on smartphones. Peer-to-peer is overkill for us, but it's the only libre software we know of for mirrored sync that also works on android.
+    - [Syncthing](https://syncthing.net/) on smartphones. Peer-to-peer is overkill for us, but it's the only piece of FOSS software we know of for mirrored sync that also works on android.
 - backups:
     - [btrbk](https://github.com/digint/btrbk) is great for maintaining *local* snapshots. We have set up a cron job for it to run every ten minutes and it keeps those snapshots for a long time, and as of writing this we have over 2000 stored.
     - We also regularly backup directories we can't afford to lose onto cold storage with [rsync](https://rsync.samba.org/).
