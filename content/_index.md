@@ -30,7 +30,7 @@ Non-exhaustive list of public services:
 - [tarneo.fr](https://tarneo.fr): *~tarneo*'s blog.
 - [matrix.renn.es](https://matrix.to/#/#welcome:matrix.renn.es): our Matrix server.
 - [git.renn.es](https://git.renn.es): our Git server.
-- [mail.renn.es](https://mail.renn.es): our email server, without webmail.
+- [mail.renn.es](https://mail.renn.es): our email server.
 - [toot.renn.es](https://toot.renn.es): our Mastodon server.
 - [searx.renn.es](https://searx.renn.es): our SearXNG instance.
 - [iv.renn.es](https://iv.renn.es): our Invidious instance.
