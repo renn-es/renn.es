@@ -14,18 +14,16 @@ Everything is set up focused on security, simplicity and minimalism.
 We provide both services which can be accessed from a web browser, and Linux shell accounts which you can SSH into.
 
 Here are some use cases for a shell account:
-- messing around and learning about Linux
-- hosting a website, by `rsync`ing static, probably automatically generated content from your computer
-- storing (a reasonable amount of) files
-
-If you want an account on this server, just send us an email at <admin@renn.es>.
+- Messing around and learning about Linux
+- Hosting a website, by syncing HTML pages from your computer. This website (which is made with [Hugo](https://gohugo.io/)) is a good example of this.
+- Storing (a reasonable amount of) files
 
 ## Public services
 
 You are free to use these services as you want. You should be able to create accounts on all of them, you only need to get in touch with us for e-mail accounts as we want to avoid spam on that as much as possible.
 
 - [renn.es](https://renn.es): this website.
-- [tarneo.fr](https://tarneo.fr): *~tarneo*'s blog.
+- [tarneo.fr](https://tarneo.fr): *tarneo*'s blog.
 - [matrix.renn.es](https://matrix.to/#/#welcome:matrix.renn.es): Matrix
 - [git.renn.es](https://git.renn.es): Gitea
 - [mail.renn.es](https://mail.renn.es): E-mail
@@ -35,40 +33,32 @@ You are free to use these services as you want. You should be able to create acc
 
 ## Hardware
 
-- Host: Fujitsu Primergy TX1330 M2 GS01
-- CPU: Intel Xeon E3-1270 v5 (8) @ 4GHz
-- RAM: 32GB DDR3
-- Hard drives: a pair of 3TB HDDs in RAID 1
+We use refurbished/used computers as our servers. The main one is a Fujitsu Primergy tower server with 8 cores at 4 GHz and 32 GB of DDR3 RAM. We also use two Lenovo Thinkcentre 1L PC's for backups and an OVH VPS in case our main server fails.
 
-## Software
+## Privacy
 
-- Debian Linux
-- Docker
-- dockerized services:
-    - reverse proxy and website hosting: [Caddy](https://caddyserver.com/). It handles both reverse proxying requests and issuing TLS certs. Its configuration file is very simple to work with.
-    - email server: [Docker-mailserver](https://docker-mailserver.github.io/docker-mailserver/latest/). This does all we want it to do and much more.
-    - Matrix server: [Synapse](https://hub.docker.com/r/matrixdotorg/synapse)
-    - git server: [Gitea](https://about.gitea.com/)
-- file sync:
-    - [Unison](https://github.com/bcpierce00/unison) with a [custom script](https://github.com/tarneaux/.f/blob/master/zsh/.config/scripts/unison-sync)
-    - [Syncthing](https://syncthing.net/) on smartphones. Peer-to-peer is overkill for us, but it's the only piece of FOSS software we know of for mirrored sync that also works on android.
-- backups:
-    - [btrbk](https://github.com/digint/btrbk) is great for maintaining *local* snapshots. We have set up a cron job for it to run every ten minutes and it keeps those snapshots for a long time, and as of writing this we have over 2000 stored.
-    - We also regularly backup directories we can't afford to lose onto cold storage with [rsync](https://rsync.samba.org/).
-
-## Analytics
-
-Some of the websites we host use very minimal analytics, with the only goal of knowing how many people access said websites.
-For this, we use the Caddy `log` option, which logs each HTTP request to a file. Each log entry contains the following personnaly identifiable information:
-- timestamp (the date & time of the request)
-- client IP address (unique, for example, to your home network)
-- host (e.g. `tarneo.fr`) and page
-- user agent (which web browser you are using)
-
-We do not share your data with any third parties or use third-party services on our websites.
+We believe data is radioactive. We aggregate as little of it as possible. For example, we don't log requests on any of our websites. We will never share any data with third parties. We don't use analytics on our websites.
 
 ## Who are we?
 
-We are *~tarneo* and *~spedotte*, french, privacy red-pilled GNU/Linux enthusiasts. This server is maintained without any profit in mind.
+We are *tarneo* and *spedotte*, french, privacy red-pilled GNU/Linux enthusiasts. This server is maintained without any profit in mind.
+
+## Contact
+
+If you want:
+- to get a shell or email account
+- to suggest a new service we could host
+- us to host a website specifically for you
+
+Just send us an email at: <admin@renn.es>.
+
+*tarneo* will receive your email. If you want to, you can encrypt it with his GPG key, available on [his blog](https://tarneo.fr/).
+
+In your email, please indicate:
+- What you want of course :-)
+- Information relevant to your request, e.g. the username you want for an account.
+- Your (nick)name and your preferred pronouns in the signature.
+
+---
 
 [The FBI has not been here.](https://en.wikipedia.org/wiki/Warrant_canary)
