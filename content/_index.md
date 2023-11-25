@@ -7,8 +7,6 @@
 >
 > <cite>Étienne de La Boétie</cite>
 
-<!-- ![](/penguin_in_space.png) -->
-
 *Renn.es* is a non-profit shared GNU/Linux system.
 
 Everything is set up focused on security, simplicity and minimalism.
