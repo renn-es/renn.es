@@ -71,6 +71,6 @@ We do not share your data with any third parties or use third-party services on 
 
 ## Who are we?
 
-We are *~tarneo* and *~spedotte*, french, privacy red-pilled GNU/Linux enthusiasts. This server is maintained without any profit in mind and is therefore more of a money sink.
+We are *~tarneo* and *~spedotte*, french, privacy red-pilled GNU/Linux enthusiasts. This server is maintained without any profit in mind.
 
 [The FBI has not been here.](https://en.wikipedia.org/wiki/Warrant_canary)
