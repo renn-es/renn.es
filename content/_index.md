@@ -7,7 +7,7 @@
 >
 > <cite>Étienne de La Boétie</cite>
 
-*Renn.es* is a non-profit shared GNU/Linux system.
+*Renn.es* is a non-profit shared GNU/Linux system in the style of the public access computers of the 90's.
 
 Everything is set up focused on security, simplicity and minimalism.
 
