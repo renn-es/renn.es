@@ -58,7 +58,3 @@ In your email, please indicate:
 - What you want of course :-)
 - Information relevant to your request, e.g. the username you want for an account.
 - Your (nick)name and your preferred pronouns in the signature.
-
----
-
-[The FBI has not been here.](https://en.wikipedia.org/wiki/Warrant_canary)

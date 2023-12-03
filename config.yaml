@@ -2,7 +2,7 @@ baseURL: 'https://renn.es/'
 languageCode: 'en'
 title: "Renn.es"
 
-theme: "tarneo.fr"
+theme: "renny"
 
 markup:
   goldmark:

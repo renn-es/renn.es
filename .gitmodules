@@ -1,3 +1,6 @@
 [submodule "themes/tarneo.fr"]
 	path = themes/tarneo.fr
 	url = https://github.com/tarneaux/tarneo.fr
+[submodule "themes/renny"]
+	path = themes/renny
+	url = https://github.com/tarneaux/renny
