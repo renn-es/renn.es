@@ -1,7 +1,6 @@
 ---
+title: "Renn.es"
 ---
-
-# Renn.es
 
 > "The tyrants are only great because we are on our knees." 
 >
