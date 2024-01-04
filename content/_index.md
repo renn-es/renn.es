@@ -21,14 +21,18 @@ Here are some use cases for a shell account:
 
 You are free to use these services as you want. You should be able to create accounts on all of them, you only need to get in touch with us for e-mail accounts as we want to avoid spam on that as much as possible.
 
-- [renn.es](https://renn.es): this website.
-- [tarneo.fr](https://tarneo.fr): *tarneo*'s blog.
 - [matrix.renn.es](https://matrix.to/#/#welcome:matrix.renn.es): Matrix
 - [git.renn.es](https://git.renn.es): Gitea
 - [mail.renn.es](https://mail.renn.es): E-mail
 - [toot.renn.es](https://toot.renn.es): Mastodon
 - [searx.renn.es](https://searx.renn.es): SearXNG
 - [iv.renn.es](https://iv.renn.es): Invidious
+
+## Websites hosted here
+
+- [tarneo.fr](https://tarneo.fr): *tarneo*'s blog.
+- [alirezahayati.com](https://alirezahayati.com/): Ali Reza Hayati's blog.
+- [renn.es](https://renn.es): this website.
 
 ## Hardware
 
