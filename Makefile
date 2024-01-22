@@ -3,5 +3,5 @@ dev:
 
 deploy:
 	hugo
-	rsync -avx --delete public/ cocinero:./renn.es/
+	rsync -avx --delete public/ risitas@cocinero:./renn.es/
 
