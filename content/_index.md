@@ -6,11 +6,7 @@ title: "Renn.es"
 >
 > <cite>Étienne de La Boétie</cite>
 
-*Renn.es* is a non-profit shared GNU/Linux system in the style of the public access computers of the 90's.
-
-Everything is set up focused on security, simplicity and minimalism.
-
-We provide both services which can be accessed from a web browser, and Linux shell accounts which you can SSH into.
+*Renn.es* provides both services which can be accessed from a web browser, and Linux shell accounts which you can SSH into.
 
 Here are some use cases for a shell account:
 - Messing around and learning about Linux
