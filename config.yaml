@@ -11,5 +11,5 @@ markup:
 
 params:
   favicon: "penguin.png"
-  description: "Renn.es is a tilde community running on Debian Linux."
+  description: "Renn.es is a tilde community running Debian Linux."
   navbar: false
