@@ -6,16 +6,11 @@ title: "Renn.es"
 >
 > <cite>Étienne de La Boétie</cite>
 
-*Renn.es* provides both services which can be accessed from a web browser, and Linux shell accounts which you can SSH into.
-
-Here are some use cases for a shell account:
-- Messing around and learning about Linux
-- Hosting a website, by syncing HTML pages from your computer. This website (which is made with [Hugo](https://gohugo.io/)) is a good example of this.
-- Storing (a reasonable amount of) files
+*Renn.es* is a collective which provides various services, ranging from email to web hosting.
 
 ## Public services
 
-You are free to use these services as you want. You should be able to create accounts on all of them, you only need to get in touch with us for e-mail accounts as we want to avoid spam on that as much as possible.
+You are free to use these services as you want. You should be able to create accounts on all of them, but you'll need to get in touch with us for e-mail accounts as we want to avoid spam accounts.
 
 - [matrix.renn.es](https://matrix.to/#/#welcome:matrix.renn.es): Matrix
 - [git.renn.es](https://git.renn.es): Gitea
