@@ -40,7 +40,7 @@ We are *tarneo* and *spedotte*, french, privacy red-pilled GNU/Linux enthusiasts
 ## Contact
 
 If you want:
-- to get a shell or email account
+- to get an email account
 - to suggest a new service we could host
 - us to host a website specifically for you
 
