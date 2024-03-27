@@ -1,5 +1,6 @@
 baseURL: 'https://renn.es/'
 languageCode: 'en'
+defaultContentLanguage: 'fr-fr' # For date internationalization
 title: "Renn.es"
 
 theme: "renny"
@@ -12,4 +13,13 @@ markup:
 params:
   favicon: "penguin.png"
   description: "Renn.es is a collective which provides various services, ranging from email to web hosting."
-  navbar: false
+  navbar: true
+
+menu:
+  main:
+    - name: "Accueil"
+      url: "/"
+      weight: 1
+    - name: "Services"
+      url: "/services/"
+      weight: 2
