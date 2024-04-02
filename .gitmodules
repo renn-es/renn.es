@@ -4,3 +4,6 @@
 [submodule "themes/renny"]
 	path = themes/renny
 	url = https://github.com/tarneaux/renny
+[submodule "content/textes"]
+	path = content/textes
+	url = https://github.com/renn-es/textes
