@@ -1,5 +1,5 @@
 baseURL: 'https://renn.es/'
-languageCode: 'en'
+languageCode: 'fr-fr'
 defaultContentLanguage: 'fr-fr' # For date internationalization
 title: "Renn.es"
 
@@ -12,7 +12,7 @@ markup:
 
 params:
   favicon: "penguin.png"
-  description: "Renn.es is a collective which provides various services, ranging from email to web hosting."
+  description: "Renn.es est une association loi 1901 proposant des services Internet basés sur des logiciels libres."
   navbar: true
 
 menu:
@@ -20,6 +20,12 @@ menu:
     - name: "Accueil"
       url: "/"
       weight: 1
-    - name: "Services"
-      url: "/services/"
+    - name: "Statuts"
+      url: "/textes/statuts"
       weight: 2
+    - name: "Règlement intérieur"
+      url: "/textes/reglement"
+      weight: 3
+    - name: "CGU"
+      url: "/textes/cgu"
+      weight: 4
