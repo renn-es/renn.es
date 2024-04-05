@@ -53,3 +53,8 @@ Le bureau recevra aussi vos e-mails à ces adresses:
 Vous pouvez aussi nous contacter par téléphone au `09 72 15 soixante et onze 38`.
 
 (Les adresses e-mail ne sont pas écrites en clair pour éviter le spam. Évidemment, enlevez les espaces et remplacez `arobase` par `@`!)
+
+## Sites web hébergés ici
+
+- [tarneo.fr](https://tarneo.fr): blog de tarneo.
+- [alirezahayati.com](https://alirezahayati.com): blog d'Ali Reza Hayati.
