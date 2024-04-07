@@ -3,7 +3,7 @@ languageCode: 'fr-fr'
 defaultContentLanguage: 'fr-fr' # For date internationalization
 title: "Renn.es"
 
-theme: "renny"
+theme: "rennes"
 
 markup:
   goldmark:
