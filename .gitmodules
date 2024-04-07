@@ -7,3 +7,6 @@
 [submodule "content/textes"]
 	path = content/textes
 	url = https://github.com/renn-es/textes
+[submodule "themes/rennes"]
+	path = themes/rennes
+	url = https://github.com/renn-es/hugo-theme
