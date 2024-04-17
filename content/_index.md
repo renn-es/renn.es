@@ -43,7 +43,7 @@ Une facturation additionnelle est appliquée, de deux centimes par mois par giga
 ## Contact
 
 Sont listées ici les adresses e-mail des membres du bureau:
-- tarneo (président): `tarneo arobase tarneo.fr`
+- ***REMOVED*** (président): `***REMOVED***`
 - ***REMOVED*** (vice-président): `***REMOVED***`
 
 Le bureau recevra aussi vos e-mails à ces adresses:
@@ -56,5 +56,5 @@ Vous pouvez aussi nous contacter par téléphone au `09 72 15 soixante et onze 3
 
 ## Sites web hébergés ici
 
-- [tarneo.fr](https://tarneo.fr): blog de tarneo.
+- [tarneo.fr](https://tarneo.fr): blog de ***REMOVED***.
 - [alirezahayati.com](https://alirezahayati.com): blog d'Ali Reza Hayati.
