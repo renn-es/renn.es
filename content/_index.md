@@ -43,7 +43,7 @@ Une facturation additionnelle est appliquée, de deux centimes par mois par giga
 ## Contact
 
 Sont listées ici les adresses e-mail des membres du bureau:
-- tarneo (président): `tarneo arobase tarneo.fr`
+- Max Pothier (président): `max arobase tarneo.fr`
 - Thomas Moreau (vice-président): `thomas.moreau arobase renn.es`
 
 Le bureau recevra aussi vos e-mails à ces adresses:
@@ -56,5 +56,5 @@ Vous pouvez aussi nous contacter par téléphone au `09 72 15 soixante et onze 3
 
 ## Sites web hébergés ici
 
-- [tarneo.fr](https://tarneo.fr): blog de tarneo.
+- [tarneo.fr](https://tarneo.fr): blog de Max Pothier.
 - [alirezahayati.com](https://alirezahayati.com): blog d'Ali Reza Hayati.
