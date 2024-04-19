@@ -12,9 +12,10 @@ markup:
 
 params:
   favicon: "penguin.png"
-  description: "Renn.es est une association loi 1901 proposant des services Internet basés sur des logiciels libres."
+  description: "Un traîneau d'avance sur les GAFAM"
   navbar: true
   footer: true
+  logo: "logo.svg"
 
 menu:
   main:
