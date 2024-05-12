@@ -15,7 +15,7 @@ sd:
 	git stash pop
 
 deploy: build
-	rsync -avx --delete public/ risitas@cocinero:./renn.es/
+	rsync -avx --delete public/ admin@ssh.renn.es:renn.es/
 
 format:
 	prettier content --write
