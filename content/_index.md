@@ -57,4 +57,4 @@ Vous pouvez aussi nous contacter par téléphone au `09 72 15 soixante et onze 3
 ## Sites web hébergés ici
 
 - [tarneo.fr](https://tarneo.fr): blog de Max Pothier.
-- [alirezahayati.com](https://alirezahayati.com): blog d'Ali Reza Hayati.
+- [hyti.org](https://hyti.org): blog d'Ali Reza Hayati.
