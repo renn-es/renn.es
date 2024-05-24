@@ -47,7 +47,7 @@ Sont listées ici les adresses e-mail des membres du bureau:
 - ***REMOVED*** (vice-président): `***REMOVED***`
 
 Le bureau recevra aussi vos e-mails à ces adresses:
-- `legal arobase renn.es` (pour l'adhésion par exemple);
+- `bureau arobase renn.es` (pour l'adhésion par exemple);
 - `admin arobase renn.es` (pour le support technique, ou la demande d'un nouveau service).
 
 Vous pouvez aussi nous contacter par téléphone au `09 72 15 soixante et onze 38`.
