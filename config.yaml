@@ -35,6 +35,9 @@ menu:
     - name: "CGU"
       url: "/textes/cgu"
       weight: 3
+    - name: "Sécurité"
+      url: "/textes/securite"
+      weight: 4
     - name: "Mentions légales"
       url: "/legal/"
-      weight: 4
+      weight: 5
