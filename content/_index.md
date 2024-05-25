@@ -27,7 +27,7 @@ Les services suivants sont utilisables sans adhérer à l'association. L'auto-cr
 
 Les membres de l'association ont accès aux services additionnels suivants:
 - [Nextcloud](https://cloud.renn.es): Alternative à Google Drive, Docs, etc. et donc stockage de fichiers.
-- [E-mail](https://mail.renn.es): L'e-mail, vous connaissez?
+- [E-mail](https://mail.renn.es): Votre boite aux lettres numérique. Non, mais sérieusement, on n'a pas besoin de vous expliquer ce qu'est l'e-mail.
 - Hébergement de sites web.
 
 ## Devenir membre
