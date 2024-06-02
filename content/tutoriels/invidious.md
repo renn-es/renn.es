@@ -27,7 +27,7 @@ Il arrive souvent qu'on vous envoie une vidéo sur YouTube, ou que vous cliquiez
 
 Cela veut aussi dire qu'il est possible de rediriger automatiquement votre navigateur de YouTube vers invidious, notamment avec l'extension de navigateur [LibRedirect](https://libredirect.github.io/), disponible pour les navigateurs Chromium (Google Chrome, MS Edge, Brave, Vivaldi...) et Mozilla Firefox (ou Librewolf).
 
-Une fois installée, l'extension ouvrira une page de configuration. Dans la colonne de navigation, choisissez "YouTube" et activez le module. Ensuite, descendez et entrez l'URL "https://iv.renn.es/" avant de cliquer sur "+". Vous pouvez supprimer l'instance déjà configurée, et voilà! Essayez maintenant d'aller sur YouTube, et constatez que l'extension vous renvoie automatiquement vers notre instance Invidious.
+Une fois installée, l'extension ouvrira une page de configuration. Dans la colonne de navigation, choisissez "YouTube" et activez le module. Ensuite, descendez et entrez l'URL `https://iv.renn.es/` avant de cliquer sur "+". Vous pouvez supprimer l'instance déjà configurée, et voilà! Essayez maintenant d'aller sur YouTube, et constatez que l'extension vous renvoie automatiquement vers notre instance Invidious.
 
 > Vous pouvez évidemment utiliser l'URL n'importe quelle autre instance.
 
