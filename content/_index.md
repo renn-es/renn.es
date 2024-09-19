@@ -40,6 +40,10 @@ Les membres ont les privilèges suivants:
 
 Une facturation additionnelle est appliquée, de deux centimes par mois par gigaoctet d'espace disque utilisé, avec un crédit maximal de dix euros.
 
+## Mailing list
+
+Vous pouvez vous abonner à la mailing list ou consulter ses archives ici: <https://lists.sr.ht/~tarneo/renn.es>
+
 ## Contact
 
 Sont listées ici les adresses e-mail des membres du bureau:
