@@ -41,3 +41,5 @@ menu:
     - name: "Mentions légales"
       url: "/legal/"
       weight: 5
+    - name: "Clés PGP"
+      url: "/keys/"
