@@ -10,9 +10,9 @@ Le siège social de l'association se trouve au 197 avenue du Maine, 75014 Paris.
 
 L'association est immatriculée `925 388 233` au répertoire SIREN, et le numéro SIRET de son siège est le `925 388 233 00015`.
 
-## Éditeur
+## Éditeur·ice
 
-Ce site web est principalement géré par le président actuel de l'association, ***REMOVED***.
+Ce site web est principalement géré par lae président·e actuel·le de l'association.
 
 ## Hébergement
 

@@ -46,19 +46,15 @@ Vous pouvez vous abonner à la mailing list ou consulter ses archives ici: <http
 
 ## Contact
 
-Sont listées ici les adresses e-mail des membres du bureau:
-- ***REMOVED*** (président): `***REMOVED***`
-- ***REMOVED*** (vice-président): `***REMOVED***`
-
-Le bureau recevra aussi vos e-mails à ces adresses:
-- `bureau arobase renn.es` (pour l'adhésion par exemple);
+Le bureau recevra vos e-mails à ces adresses:
+- `bureau arobase renn.es` ;
 - `admin arobase renn.es` (pour le support technique, ou la demande d'un nouveau service).
 
-Vous pouvez aussi nous contacter par téléphone au `09 72 15 soixante et onze 38`.
+Vous pouvez aussi nous contacter par téléphone au `09 72 15 71 38`.
 
 (Les adresses e-mail ne sont pas écrites en clair pour éviter le spam. Évidemment, enlevez les espaces et remplacez `arobase` par `@`!)
 
 ## Sites web hébergés ici
 
-- [tarneo.fr](https://tarneo.fr): blog de ***REMOVED***.
+- [tarneo.fr](https://tarneo.fr): blog de tarneo, président·e actuel·le de l'association.
 - [hyti.org](https://hyti.org): blog d'Ali Reza Hayati.
