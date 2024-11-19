@@ -16,6 +16,9 @@ params:
   navbar: true
   footer: true
   logo: "logo.svg"
+  meta:
+    - name: "robots"
+      content: "noarchive, nosnippet"
 
 menu:
   main:
