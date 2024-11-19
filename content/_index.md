@@ -20,7 +20,7 @@ Les services suivants sont utilisables sans adhérer à l'association. L'auto-cr
 - [Matrix](https://matrix.renn.es): Une alternative aux divers services de messagerie instantanée comme WhatsApp ou Instagram.
 - [Mastodon](https://toot.renn.es): Mastodon fait partie du Fediverse, un ensemble de réseaux sociaux. Il peut être comparé à Twitter.
 - [ForgeJo](https://git.renn.es): Une alternative à GitHub (pour les développeur·euses informatiques).
-- [Invidious](https://iv.renn.es): Une interface alternative pour YouTube sans publicités ni traçage ([Tutoriel](/tutoriels/invidious/)).
+- [Invidious](https://iv.renn.es): Une interface alternative pour YouTube sans publicités ni traçage ([Tutoriel](/tutoriels/invidious/)). *Ce service ne fonctionne pas actuellement.*
 - [SearXNG](https://searx.renn.es): Un moteur de recherche agrégeant les résultats de Google, Bing, DuckDuckGo et d'autres moteurs de recherche.
 
 ## Services pour les membres
