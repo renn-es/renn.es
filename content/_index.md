@@ -50,8 +50,6 @@ Le bureau recevra vos e-mails à ces adresses:
 - `bureau arobase renn.es` ;
 - `admin arobase renn.es` (pour le support technique, ou la demande d'un nouveau service).
 
-Vous pouvez aussi nous contacter par téléphone au `09 72 15 71 38`.
-
 (Les adresses e-mail ne sont pas écrites en clair pour éviter le spam. Évidemment, enlevez les espaces et remplacez `arobase` par `@`!)
 
 ## Sites web hébergés ici
