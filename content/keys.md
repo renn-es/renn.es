@@ -1,6 +1,5 @@
 ---
 title: "Clés PGP"
-date: 2024-10-18
 ---
 
 L'association Renn.es gère deux clés PGP qui ont des usages différents.
