@@ -18,6 +18,10 @@ buildPhase() {
                 cmark --unsafe "$file"
                 sed -e '1,/==MAIN==/d' base.html
             } > "$out/$path/index.html"
+            if [[ "$path" = *404 ]]; then
+                mv "$out/$path/index.html" "$out/$path.html"
+                rmdir "$out/$path/" || true
+            fi
         done
 
     cp -r static/. "$out"/
