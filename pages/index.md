@@ -28,7 +28,7 @@ Les membres de l'association ont accès aux services additionnels suivants:
 
 ## Fonctionnement
 
-Les nouvelles membres doivent être acceptées par les membres précédentes. Elles payent un euro symbolique et s'engagent à contribuer aux fonds de l'association à part égale avec les autres membres à la fin de chaque mois.
+Les nouvelles membres doivent être acceptées par les membres précédentes. Toutes les membres contribuent aux fonds de l'association à part égale.
 
 Les décisions se font par consensus ou majorité absolue, à tout moment et en distanciel.
 

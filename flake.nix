@@ -45,6 +45,22 @@
           in
             "${script}/bin/dev";
         };
+        apps.deploy = {
+          type = "app";
+          program = let
+            script = pkgs.writeShellApplication {
+              name = "dev";
+              runtimeInputs = with pkgs; [
+                rsync
+              ];
+              text = ''
+                nix build
+                rsync -avx --delete result/ admin@ssh.renn.es:renn.es/
+              '';
+            };
+          in
+            "${script}/bin/dev";
+        };
       }
     );
 }
