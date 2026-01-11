@@ -2,13 +2,7 @@
 >
 > <cite>Étienne de La Boétie</cite>
 
-Renn.es est une association proposant des services Internet fondés sur des logiciels libres.
-
-Elle est financée et contrôlée par ses utilisatrices selon les principes de l'autogestion.
-
-Notre modèle s'oppose ainsi directement à celui des entreprises de la Silicon Valley, dont le but est le profit, au détriment de la vie privée et des intérêts des particuliers.
-
-Vous trouverez ci-dessous une liste non exhaustive des services que nous proposons; si vous voulez en proposer d'autres, n'hésitez pas à nous contacter.
+Renn.es est une association proposant des services Internet fondés sur des logiciels libres. Elle est financée à parts égales et contrôlée par ses utilisatrices selon les principes de l'autogestion.
 
 ## Services en accès libre
 
