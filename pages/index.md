@@ -11,7 +11,7 @@ Les services suivants sont utilisables sans adhérer à l'association. Malheureu
 - [SearXNG](https://searx.renn.es) (agrégateur de moteurs de recherche) ;
 - [Mastodon](https://toot.renn.es) (membre du Fediverse, réseau social décentralisé) ;
 - [ForgeJo](https://git.renn.es) (hébergement de code source informatique) ;
-- [Invidious](https://iv.renn.es) (interface alternative pour YouTube sans publicités ni traçage). *Ce service ne fonctionne pas actuellement.*
+- [Invidious](https://iv.renn.es) (interface alternative pour YouTube sans publicités ni traçage).
 
 ## Services réservés aux membres
 
