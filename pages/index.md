@@ -18,6 +18,7 @@ Les services suivants sont utilisables sans adhérer à l'association. Malheureu
 Les membres de l'association ont accès aux services additionnels suivants:
 - [Nextcloud](https://cloud.renn.es) (stockage de fichiers, calendrier, contacts) ;
 - [E-mail](https://mail.renn.es) ;
+- [Matrix](https://matrix.renn.es) (messagerie instantanée décentralisée) ;
 - Hébergement de sites web ;
 - Stockage de fichiers par SSH.
 
